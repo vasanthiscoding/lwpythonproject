@@ -23,9 +23,6 @@ print(location)
 if location== "remote":
 	remoteIP= input("Enter the IP :")
 	
-	
-
-
 	print("""press 1: to see date
 	press 2: to check cal
 	press 3: config the web server
